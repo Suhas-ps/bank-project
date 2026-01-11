@@ -73,13 +73,23 @@ The bank required a structured analysis to:
 
 <img width="1332" height="599" alt="Banking Excel Screenshot" src="https://github.com/user-attachments/assets/fd9e787c-00ab-49a4-ab30-cbbd6eaa00d0" />
 
-<img width="1304" height="735" alt="Banking Power Bi Screenshot-1" src="https://github.com/user-attachments/assets/66d6ab6c-1a48-40ec-8c3c-57d0613d024c" />
+---
 
 <img width="1280" height="721" alt="Banking Power Bi Screenshot-2" src="https://github.com/user-attachments/assets/7223644b-ed42-419a-9fed-b7f604744a52" />
 
-<img width="1285" height="687" alt="Banking Power Bi Screenshot-3" src="https://github.com/user-attachments/assets/a17c6662-54e7-4b1e-a045-dc987a29e781" />
+---
 
 <img width="1904" height="977" alt="Banking Tableau Screenshot" src="https://github.com/user-attachments/assets/7d69daa0-fde3-4135-b06d-09dac8d9c48c" />
+
+---
+
+<h2><a class="anchor" id="dashboards"></a>📊 Credit % Debit Dashboards</h2>
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-11 153840" src="https://github.com/user-attachments/assets/50e3bd60-88be-4a0d-a159-c0856740a056" />
+
+---
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-11 153846" src="https://github.com/user-attachments/assets/9b6a9a15-f86b-46ab-8186-7b893e0488b2" />
 
 ---
 
