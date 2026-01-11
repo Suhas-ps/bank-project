@@ -41,8 +41,8 @@ The bank required a structured analysis to:
 <h2><a class="anchor" id="tools--technologies"></a>🛠️ Tools & Technologies</h2>
 
 - Excel — data validation, reconciliation, pivot-based analysis  
-- SQL (MySQL) — transaction-level analysis, aggregations, and reporting queries  
-- Power BI — data modeling, calculated measures, DAX, interactive dashboards  
+- SQL (MySQL) — aggregations, transaction-level analysis, reporting queries  
+- Power BI — DAX, data modeling, calculated measures, interactive dashboards  
 - Tableau — trend analysis and comparative visual reporting  
 - GitHub — version control and project documentation  
 
