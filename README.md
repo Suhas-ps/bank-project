@@ -57,15 +57,15 @@ The bank required a structured analysis to:
 ---
 <h2><a class="anchor" id="analysis--key-findings"></a>📌 Analysis & Key Findings</h2>
 
-- **Suspicious transactions are a key risk area**, with **20.43K high-risk transactions**, highlighting the need for focused monitoring.
+- Suspicious transactions are a key risk area, with 20.43K high-risk transactions, highlighting the need for focused monitoring.
 
-- **Monthly transaction volume is stable** across most periods (**8.8K – 9.3K transactions**), with a sharp drop in the final month.
+- Monthly transaction volume is stable across most periods (8.8K–9.3K transactions), with a sharp drop in the final month.
 
-- **Transaction methods are evenly distributed**, with Debit Card, Credit Card, and Bank Transfer each contributing roughly **one-third** of total volume.
+- Transaction methods are evenly distributed, with Debit Card, Credit Card, and Bank Transfer each contributing roughly one-third of total volume.
 
-- **A few branches contribute the majority of transaction value**, indicating concentration at key locations.
+- A few branches contribute the majority of transaction value, indicating concentration at key locations.
 
-- **Repayment behavior is largely healthy**, with **71% on-time repayments**, while late payments account for the remaining share.
+- Repayment behavior is largely healthy, with 71% on-time repayments, while late payments account for the remaining share.
 
 ---
 
@@ -83,7 +83,7 @@ The bank required a structured analysis to:
 
 ---
 
-<h2><a class="anchor" id="dashboards"></a>📊 Credit % Debit Dashboards</h2>
+<h2><a class="anchor" id="dashboards"></a>📊 Credit & Debit Dashboards</h2>
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-11 153840" src="https://github.com/user-attachments/assets/50e3bd60-88be-4a0d-a159-c0856740a056" />
 
