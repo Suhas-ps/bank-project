@@ -41,7 +41,7 @@ The bank required a structured analysis to:
 
 - Excel — data validation, reconciliation, pivot-based analysis  
 - SQL (MySQL) — aggregations, joins, conditional logic, growth calculations  
-- Power BI — data modeling, calculated measures, interactive dashboards  
+- Power BI — data modeling, calculated measures, DAX, interactive dashboards  
 - Tableau — trend analysis and comparative visual reporting  
 - GitHub — version control and project documentation  
 
@@ -55,26 +55,31 @@ The bank required a structured analysis to:
 - Identified periods with noticeable growth and decline patterns  
 
 ---
-
 <h2><a class="anchor" id="analysis--key-findings"></a>📌 Analysis & Key Findings</h2>
 
-- Credit transactions accounted for approximately **60–65%** of total transaction value, indicating higher inflow activity.
-- Debit transactions showed more frequent volume but lower average transaction value.
-- Monthly transaction volumes exhibited a **~18–25% variation** between peak and low periods.
-- Quarter-over-quarter transaction growth remained positive in most periods, averaging **~5–7%**.
-- A small number of high-value transactions contributed disproportionately to overall transaction value.
+- **Suspicious transactions are a key risk area**, with **20.43K high-risk transactions**, highlighting the need for focused monitoring.
+
+- **Monthly transaction volume is stable** across most periods (**8.8K – 9.3K transactions**), with a sharp drop in the final month.
+
+- **Transaction methods are evenly distributed**, with Debit Card, Credit Card, and Bank Transfer each contributing roughly **one-third** of total volume.
+
+- **A few branches contribute the majority of transaction value**, indicating concentration at key locations.
+
+- **Repayment behavior is largely healthy**, with **71% on-time repayments**, while late payments account for the remaining share.
 
 ---
 
-<h2><a class="anchor" id="dashboards"></a>📊 Dashboards</h2>
+<h2><a class="anchor" id="dashboards"></a>📊 Banking Dashboards</h2>
 
-The dashboards provide:
-- Credit vs Debit transaction comparison  
-- Monthly and quarterly transaction trends  
-- Overall transaction growth overview  
-- Interactive filters for time-based analysis  
+<img width="1332" height="599" alt="Banking Excel Screenshot" src="https://github.com/user-attachments/assets/fd9e787c-00ab-49a4-ab30-cbbd6eaa00d0" />
 
-Dashboard screenshots are available in the repository.
+<img width="1304" height="735" alt="Banking Power Bi Screenshot-1" src="https://github.com/user-attachments/assets/66d6ab6c-1a48-40ec-8c3c-57d0613d024c" />
+
+<img width="1280" height="721" alt="Banking Power Bi Screenshot-2" src="https://github.com/user-attachments/assets/7223644b-ed42-419a-9fed-b7f604744a52" />
+
+<img width="1285" height="687" alt="Banking Power Bi Screenshot-3" src="https://github.com/user-attachments/assets/a17c6662-54e7-4b1e-a045-dc987a29e781" />
+
+<img width="1904" height="977" alt="Banking Tableau Screenshot" src="https://github.com/user-attachments/assets/7d69daa0-fde3-4135-b06d-09dac8d9c48c" />
 
 ---
 
