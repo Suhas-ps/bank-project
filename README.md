@@ -113,5 +113,5 @@ The bank required a structured analysis to:
 **Suhas P S**  
 Business Analyst  
 📧 Email: suhas00012@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/yourprofile  
-🔗 GitHub: https://github.com/yourusername
+🔗 LinkedIn: https://www.linkedin.com/in/suhas-p-s/
+🔗 GitHub: https://github.com/Suhas-ps
