@@ -69,7 +69,7 @@ The bank required a structured analysis to:
 
 <h2><a class="anchor" id="banking-dashboards"></a>📊 Banking Dashboards</h2>
 
-<img width="1332" height="599" alt="Banking Excel Screenshot" src="https://github.com/user-attachments/assets/fd9e787c-00ab-49a4-ab30-cbbd6eaa00d0" />
+<img width="1454" height="631" alt="Banking Excel Screenshot" src="https://github.com/user-attachments/assets/10ec7f32-86a2-4388-af4b-f11ca54ddba8" />
 
 ---
 
