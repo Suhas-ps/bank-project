@@ -90,7 +90,7 @@ The bank required a structured analysis to:
 
 <h2><a class="anchor" id="credit-debit-dashboards"></a>📊 Credit & Debit Dashboards</h2>
 
-<img width="1920" height="1080" alt="Credit & Debit Excel Screenshot" src="https://github.com/user-attachments/assets/50e3bd60-88be-4a0d-a159-c0856740a056" />
+<img width="1541" height="659" alt="Credit   Debit Excel Screenshot" src="https://github.com/user-attachments/assets/72d02b7e-5f21-490c-a2f7-483d89ed5734" />
 
 ---
 
@@ -98,6 +98,9 @@ The bank required a structured analysis to:
 
 ---
 
+<img width="1327" height="737" alt="Credit   Debit Power Bi Screenshot-2" src="https://github.com/user-attachments/assets/b8484cad-e4f0-4a19-88bd-95d27791157a" />
+
+---
 <h2><a class="anchor" id="final-outcome"></a>✅ Final Outcome</h2>
 
 - Delivered a clear and structured view of banking transaction performance  
