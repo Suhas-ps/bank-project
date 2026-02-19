@@ -94,7 +94,7 @@ The bank required a structured analysis to:
 
 ---
 
-<img width="1920" height="1080" alt="Credit & Debit Power BI Screenshot" src="https://github.com/user-attachments/assets/9b6a9a15-f86b-46ab-8186-7b893e0488b2" />
+<img width="1327" height="742" alt="Credit   Debit Power Bi Screenshot-1" src="https://github.com/user-attachments/assets/cfba810e-fdbb-40e8-a17f-a821449d7d75" />
 
 ---
 
