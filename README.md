@@ -73,6 +73,10 @@ The bank required a structured analysis to:
 
 ---
 
+<img width="1304" height="735" alt="Banking Power Bi Screenshot-1" src="https://github.com/user-attachments/assets/a8604917-1590-4392-858f-14d3d2a61842" />
+
+---
+
 <img width="1280" height="721" alt="Banking Power BI Screenshot" src="https://github.com/user-attachments/assets/7223644b-ed42-419a-9fed-b7f604744a52" />
 
 ---
